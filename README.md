@@ -1,4 +1,9 @@
-### Hi there 👋
+## About my repositories
+
+- These are mostly my hobby projects otherwise marked as institution's copyright.
+- Most of them are single-person projects.
+- But I try to keep them useful for you. Basically I maintain them unit-test cleared.
+
 
 <!--
 **kchinzei/kchinzei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
